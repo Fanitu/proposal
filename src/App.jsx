@@ -479,11 +479,11 @@ function App() {
             <div className="contact-details">
               <div className="contact-item">
                 <span className="contact-icon">📧</span>
-                <span>your-email@example.com</span>
+                <span>fanubahta@gmail.com</span>
               </div>
               <div className="contact-item">
                 <span className="contact-icon">📱</span>
-                <span>+251 9XX XXX XXX</span>
+                <span>+251 932743247</span>
               </div>
               <div className="contact-item">
                 <span className="contact-icon">🔗</span>
