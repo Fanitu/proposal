@@ -468,13 +468,19 @@ function App() {
             <p>Stop guessing. Start knowing. Join Ethiopian fast-food owners who track every birr.</p>
             
             <div className="contact-buttons">
-              <button className="btn-contact-primary">
-                📞 Schedule a Free Demo
-              </button>
-              <button className="btn-contact-secondary">
-                💬 Chat on Telegram
-              </button>
-            </div>
+  <button 
+    className="btn-contact-primary"
+    onClick={() => window.location.href = 'tel:+251932743247'}
+  >
+    📞 Schedule a Free Demo
+  </button>
+  <button 
+    className="btn-contact-secondary"
+    onClick={() => window.open('https://t.me/+251932743247', '_blank', 'noopener,noreferrer')}
+  >
+    💬 Chat on Telegram
+  </button>
+</div>
             
             <div className="contact-details">
               <div className="contact-item">
