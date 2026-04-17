@@ -491,10 +491,6 @@ function App() {
                 <span className="contact-icon">📱</span>
                 <span>+251 932743247</span>
               </div>
-              <div className="contact-item">
-                <span className="contact-icon">🔗</span>
-                <span>basic-managment.vercel.app</span>
-              </div>
             </div>
           </div>
         </div>
